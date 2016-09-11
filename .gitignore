@@ -1,0 +1,6 @@
+*.suo
+*.exe.config
+*.pdb
+*.vshost.exe
+*.manifest
+obj
