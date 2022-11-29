@@ -1,4 +1,5 @@
 *.suo
+*.exe
 *.exe.config
 *.pdb
 *.vshost.exe
